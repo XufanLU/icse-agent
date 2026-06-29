@@ -13,6 +13,7 @@ venv/
 env/
 ENV/
 ab_test/.abtest/
+.debug_flow_venv/
 
 # Test, coverage, and tooling caches
 .pytest_cache/
@@ -23,6 +24,7 @@ htmlcov/
 .ruff_cache/
 .tox/
 .nox/
+.debug_flow_runs/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -36,4 +38,3 @@ htmlcov/
 .idea/
 .vscode/
 .DS_Store
-
